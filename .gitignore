@@ -1,0 +1,16 @@
+node_modules
+.tanstack
+.vercel
+.output
+dist
+.data
+.pglite
+.env
+.env.*
+!.env.example
+*.local
+.DS_Store
+screenshots
+artifacts
+.project_id
+.node_modules.lock
